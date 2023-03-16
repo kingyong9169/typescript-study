@@ -17,7 +17,8 @@
 <details>
     <summary>김동용</summary>
 
-    - [ ] typescript-exercises 1단계
+- [ ] typescript-exercises 1단계
+
 </details>
 
 <br />
@@ -25,5 +26,6 @@
 <details>
     <summary>이호현</summary>
 
-    - [ ] typescript-exercises 1단계
+- [ ] typescript-exercises 1단계
+
 </details>
